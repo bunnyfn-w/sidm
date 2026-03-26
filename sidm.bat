@@ -8,7 +8,7 @@ echo.   88     88 88     88""Yb  dP"Yb  88b 88    db
 echo.   88     88 88     88__dP dP   Yb 88Yb88   dPYb   
 echo.   88  .o 88 88  .o 88""Yb Yb   dP 88 Y88  dP__Yb  
 echo.   88ood8 88 88ood8 88oodP  YbodP  88  Y8 dP""""Yb 
-echo. buzi
+echo. 
 echo.
 
 :askAppID
